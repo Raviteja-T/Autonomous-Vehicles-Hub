@@ -1,6 +1,3 @@
-github:
-  is_project_page: false
-  
 <p align="center">
   <img width="300" height="200" src="https://github.com/Raviteja-T/Autonomous-Vehicles-Hub/blob/main/av.png">
 </p>
