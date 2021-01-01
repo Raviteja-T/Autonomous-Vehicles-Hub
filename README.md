@@ -17,3 +17,5 @@
 5. lecture 5: Learning for autonomous vehicles I [\[PDF\]](https://github.com/Raviteja-T/Autonomous-Vehicles-Hub/raw/main/lecture_10_Learning%20for%20autonomous%20vehicles%20I.pdf)
 
 ### Deep Learning Basics and Applications. [\[PDF\]](https://github.com/Raviteja-T/simulation_work/raw/main/Deep%20Learning%20Sylla.pdf)
+
+### Object Visual Detection for Intelligent Vehicles. [\[PDF\]](https://github.com/Raviteja-T/Autonomous-Vehicles-Hub/raw/main/Object%20Visual%20Detection%20for%20Intelligent%20Vehicles.pdf)
