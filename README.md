@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150" height="150" src="https://github.com/Raviteja-T/Autonomous-Vehicles-Hub/blob/main/AV.png">
+  <img width="600" height="400" src="https://github.com/Raviteja-T/Autonomous-Vehicles-Hub/blob/main/AV.png">
 </p>
 
 ### Autonomous Vehicles - Planning And System Design(RSS02163).[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Autonomous%20Vehicles%20%E2%80%93%20Planning%20And%20System%20Design.pdf)
