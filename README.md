@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="300" height="200" src="https://github.com/Raviteja-T/Autonomous-Vehicles-Hub/blob/main/av.png">
-</p>
-
 ### Autonomous Vehicles - Planning And System Design(RSS02163).[\[PDF\]](https://github.com/Raviteja-T/TRaviteja/raw/main/Autonomous%20Vehicles%20%E2%80%93%20Planning%20And%20System%20Design.pdf)
 1. lecture 1 : introduction [\[PDF\]](https://github.com/Raviteja-T/Autonomous-Vehicles-Hub/raw/main/lecture_1_introduction.pdf)
 2. lecture 2 : discrete_motion_planning [\[PDF\]](https://github.com/Raviteja-T/Autonomous-Vehicles-Hub/raw/main/lecture_2_discrete_motion_planning.pdf)
